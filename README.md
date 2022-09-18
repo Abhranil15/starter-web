@@ -7,3 +7,6 @@ Purpose
 ## Deployment
 this is deployment
 ## How to Contribute
+
+###Copyright
+This is copyright message
