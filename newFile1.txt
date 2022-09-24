@@ -1,2 +1,2 @@
 This is first link.
-New line added-----Master
+2nd line added---newBr2(After merge conflict solved)
